@@ -16,10 +16,4 @@ Thumbs.db
 *.log
 
 # PDF
-
-POSTECH - tech Challenge - Fase 2.pdf
-
-# Se data tiver dados muito pesados/sensíveis, prefira ignorar:
-# data/
-# Ou ignore só os brutos:
-# data/raw/
+# Prova Substitutiva DTAT - Fase 2.pdf
